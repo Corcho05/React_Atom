@@ -11,7 +11,7 @@ function App() {
         <h2>Tercero Texto Agregado</h2>
         <p>Este es un párrafo agregado</p>
         <section>
-              <h2>Título desde un if</h2>
+              <h2>Título desde un</h2>
         </section>
         <p>
           Edit <code>src/App.js</code> and save to reload.
