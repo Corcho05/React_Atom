@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Tercero Texto Agregado</h2>
+        <p>Este es un párrafo agregado</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
