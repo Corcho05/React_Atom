@@ -3,12 +3,20 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  var verdadero = true;
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Tercero Texto Agregado</h2>
         <p>Este es un párrafo agregado</p>
+        <section>
+
+          if(verdadero){
+              <h2>Título desde un if</h2>
+          }
+
+        </section>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
